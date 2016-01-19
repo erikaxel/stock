@@ -1,0 +1,23 @@
+
+Metrics/AbcSize:
+  Max: 20
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 17
+
+#Metrics/ParameterLists:
+#  Max: 7
+
+## Offense count: 5
+#Style/Documentation:
+#  Exclude:
+#    - 'spec/**/*'
+#    - 'test/**/*'
+#    - 'app/helpers/stock/application_helper.rb'
+#    - 'app/models/stock_item_count.rb'
+#    - 'app/models/warehouse_transaction.rb'
+#    - 'lib/stock.rb'
+#    - 'lib/stock/engine.rb'
